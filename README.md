@@ -9,6 +9,7 @@ My name is Jarren Javier and I am currently pursuing my master's degree at Golde
 
 
 📫 **How to reach me **📫
+
 LinkedIN: https://www.linkedin.com/in/jarren-javier/
 Email: jarrenjj.ofc@gmail.com
 
