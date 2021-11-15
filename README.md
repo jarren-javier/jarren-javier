@@ -8,8 +8,9 @@ My name is Jarren Javier and I am currently pursuing my master's degree at Golde
 - I am actively searching for full time data analyst positions in the San Francisco Bay Area! If you would like to connect with me, see the "How to reach me" below.
 
 
-📫 How to reach me 📫
+📫 Contact Information and Links 📫
 
 LinkedIN: https://www.linkedin.com/in/jarren-javier/
+Tableau Public: https://public.tableau.com/app/profile/jarren.javier4560#!/?newProfile=&activeTab=0
 Email: jarrenjj.ofc@gmail.com
 
